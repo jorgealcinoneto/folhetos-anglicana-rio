@@ -17,6 +17,7 @@ Folhetos litúrgicos dos cultos dominicais da Igreja Anglicana Rio, vinculada à
 
 ## Domingos publicados
 
+- [21/06/2026 — 3º Domingo no Tempo Comum](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/06/21/)
 - [14/06/2026 — 2º Domingo no Tempo Comum](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/06/14/)
 - [31/05/2026 — Trindade Santa](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/05/31/)
 - [24/05/2026 — Dia de Pentecostes](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/05/24/)
