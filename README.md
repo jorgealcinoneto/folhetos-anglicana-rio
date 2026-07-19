@@ -17,6 +17,7 @@ Folhetos litúrgicos dos cultos dominicais da Igreja Anglicana Rio, vinculada à
 
 ## Domingos publicados
 
+- [19/07/2026 — 7º Domingo no Tempo Comum · Culto inaugural](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/07/19/)
 - [12/07/2026 — 6º Domingo no Tempo Comum](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/07/12/)
 - [05/07/2026 — 5º Domingo no Tempo Comum](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/07/05/)
 - [28/06/2026 — 4º Domingo no Tempo Comum](https://jorgealcinoneto.github.io/folhetos-anglicana-rio/2026/06/28/)
